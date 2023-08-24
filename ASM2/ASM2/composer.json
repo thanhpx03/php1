@@ -1,0 +1,20 @@
+{
+    "name": "admin/asm2",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TranNgocLinh",
+            "email": "linhtnph26625@fpt.edu.vn"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^9.51",
+        "eftec/bladeone": "^4.8",
+        "phroute/phroute": "^2.2",
+        "illuminate/events": "^9.51"
+    }
+}

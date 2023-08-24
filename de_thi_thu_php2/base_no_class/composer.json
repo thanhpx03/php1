@@ -1,0 +1,20 @@
+{
+    "name": "admin/base_no_class",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "thanhpx03",
+            "email": "117088716+thanhpx03@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^10.0",
+        "illuminate/events": "^10.0",
+        "eftec/bladeone": "^4.8",
+        "phroute/phroute": "^2.2"
+    }
+}
